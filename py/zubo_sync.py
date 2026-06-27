@@ -6,7 +6,7 @@ import time
 # --- 配置区 ---
 SOURCE_URLS = [
     "https://boyu.ccwu.cc/sub2",
-    "https://cqshushu-iptv-spider-yubo.zocomputer.io/sub?uTQtgtEj=txt",
+    "https://theresa23-docker.hf.space/sub?OVlE8I0R=txt",
     "https://iptv-spider-production.up.railway.app/sub?21KOJtUp=txt"
 ]
 # 直接定向到本地克隆好的私库对应的 zubo 目录
